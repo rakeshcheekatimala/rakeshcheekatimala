@@ -13,7 +13,7 @@ Hello, this is Rakesh I am Software engineer with 7+ years of experience. Profes
 
 📫 How to reach me : rakeshcheekatimala@gmail.com
 
-Welcome to my profile, You can follow me if skills matches.
+Welcome to my profile, You can follow me if my skills matches.
 
 <!--
 **rakeshcheekatimala/rakeshcheekatimala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
