@@ -7,7 +7,7 @@ Hello, this is Rakesh I am Software engineer with 7+ years of experience. Profes
 
 🌱 I’m currently learning & contributing on Spring projects to improve my Backend Skills. 
 
-💬 Ask me about React,CSS,Javascript,Frontend topics would be interested to help you or contribute. 
+💬 Ask me about React,CSS,Javascript,Frontend topics would be interested to help you or discuss. 
 
 ⚡ Fun fact: I love music,travelling & cooking. Huge fan of Dark (Netflix series). 
 
