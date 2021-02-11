@@ -5,7 +5,7 @@ Hello, this is Rakesh I am Software engineer with 7+ years of experience. Profes
 
 🌱 I’m currently learning AWS & preparing for AWSCertified Solutions Architect - Associate Level.
 
-🌱 I’m currently learning Spring to improve My backend skills, Typescript to bring typed system in our current projects.
+🌱 I love Typescript and using it in part of project development. 
 
 💬 Ask me about React,CSS,Javascript,Frontend topics would be interested to help you or discuss. 
 
