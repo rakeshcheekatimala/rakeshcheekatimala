@@ -3,13 +3,10 @@ Hello, this is Rakesh I am Software engineer with 7+ years of experience. Profes
 
 🔭 I’m currently working at Singtel as Software Engineer, I love learning new things,excited to solve problems.
 
-🌱 I’m currently learning AWS & preparing for AWSCertified Solutions Architect - Associate Level.
-
 🌱 I love Typescript and using it in most of my development projects. 
 
 💬 Ask me about React,CSS,Javascript,Frontend topics would be interested to help you or discuss. 
 
-⚡ Fun fact: I love music,travelling & cooking. Huge fan of Dark (Netflix series). 
 
 📫 How to reach me : rakeshcheekatimala@gmail.com
 
